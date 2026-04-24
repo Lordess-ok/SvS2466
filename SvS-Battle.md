@@ -28,7 +28,7 @@
 
 
 ## Strategy for rally leaders
-- Don't activate your pets unluess you were told to do it and wait with them
+- Don't activate your pets unless you were told to do it and wait with them
 - Your rally ratio will be 48/4/48
 - Your heroes should be Bradley/Jero/Mia
 - After we take first garrison then Fishy and one more player will jump to WLF to start counter rally in case when other state will be able to kick us out
