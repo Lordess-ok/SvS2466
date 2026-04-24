@@ -49,5 +49,8 @@
 - When you see their double or triple rallies try to time your reinforcement for castle to arrive at the same time as the rallies (if there is a gap then try to fit among that gap)
 - When pK is holding castle and there is enough time before enemies then FC8 troops or helios are preferred. PLEASE DO NOT SEND LOWER TROOPS TO CASTLE --> you will be kicked from garrison!
 
+> [!CAUTION]
+> When you have to go offline teleport outside out of the red zone and use shields to stay protected, you cannot use shield in a red zone!
+
 
 ### Thanks everyone and good luck tomorrow.
