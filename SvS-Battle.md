@@ -43,7 +43,8 @@
     - For pK use NORAH and PHILLY, only 4+ stars (this might be changed to use same heroes as for others)
     - For others: Jessie, Jasser, Seo, Reina, Jero, Bradley
   - **GARRSION Castle: RATIO 50/0/50**
-    - NORAH and PHILLY, only 4+ stars
+    - Best option would be these 4 heroes as bonus sources: Norah, Ahmose, Lumak, Patrick --> ONLY 4+ stars (everyone of them will be once in the squad)
+    - Good enough option: NORAH and PHILLY, only 4+ stars
 - Active pets and if you can activate your city buffs (10% and if you can spare then even 20% for deployment capacity)
 - When there are no rallies from our side and there is enough time before their rallies arrive then you can do solo on turrets but in other cases please wait for rallies or reinforcement. 
 - When you see their double or triple rallies try to time your reinforcement for castle to arrive at the same time as the rallies (if there is a gap then try to fit among that gap)
