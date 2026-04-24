@@ -53,4 +53,4 @@
 > When you have to go offline teleport outside out of the red zone and use shields to stay protected, you cannot use shield in a red zone!
 
 
-### Thanks everyone and good luck tomorrow.
+_**Thanks everyone and good luck tomorrow.**_
