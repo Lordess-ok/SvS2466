@@ -28,6 +28,7 @@
 
 
 ## Strategy for rally leaders
+- pK, Fishy, Matt, Trixie, LadyGaladriel, Keks, Nico
 - Don't activate your pets unless you were told to do it and wait with them
 - Your rally ratio will be 48/4/48
 - Your heroes should be Bradley/Jero/Mia
