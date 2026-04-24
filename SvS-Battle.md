@@ -40,10 +40,10 @@
 - **Always read labels and follow instructions by R4, the strategy might change!**
 - Preset your squads with these ratios and heroes
   - **ATTACK: RATIO 50/0/50**
-    - For pK use NORAH and Philly but only if you have them on 4 stars (this might be changed to use same heroes as for others)
+    - For pK use NORAH and PHILLY, only 4+ stars (this might be changed to use same heroes as for others)
     - For others: Jessie, Jasser, Seo, Reina, Jero, Bradley
   - **GARRSION Castle: RATIO 50/0/50**
-    - NORAH and Philly, only 4+ stars
+    - NORAH and PHILLY, only 4+ stars
 - Active pets and if you can activate your city buffs (10% and if you can spare then even 20% for deployment capacity)
 - When there are no rallies from our side and there is enough time before their rallies arrive then you can do solo on turrets but in other cases please wait for rallies or reinforcement. 
 - When you see their double or triple rallies try to time your reinforcement for castle to arrive at the same time as the rallies (if there is a gap then try to fit among that gap)
