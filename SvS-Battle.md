@@ -4,7 +4,7 @@
 > If you are offline --> use shield and set notification to extend it (or use 24h shield).
 
 
-## SVS RULES 
+## SVS RULES - balbal
 * Cross-state attacks will begin at 10 UTC. All attacks must STOP at 11 UTC (1 hour before battle)
 * No city attacks or scouting during Castle battle.
 * 2466 will take West side of castle. 2470 will take East side of castle
